@@ -1,15 +1,15 @@
-# Mapping the field of parchment damage assessment : a scoping literature review
+# Mapping scientific parchment damage assessment: methodologies, tools, and conservation implications
+# Authors: Christina Nguyen, Stephanie Lahey, Alexandra Gillespie, Seamus Ross, and Laurent Bozec.
+# Maintainer of this repository: @ChristinaDNguyen 
 
 ## Overview
-This repo contains the files for the computational parts of the literature review, 'Mapping the field of parchment damage assessment.'
-This ensures transparency on the generation and analysis of the data on the field's techniques, who is doing the research, the year(s)
-the research is done, etc. The DOI for the literature review is [to be inserted]. 
+This repo contains the files for the computational section of the paper, 'Mapping scientific parchment damage assessment: methodologies, tools, and conservation implications.'
+The DOI for the literature review is [to be inserted]. 
 
 ## File Structure
 The repo is structured as:
 
-- `data/raw_data` contains the bibliography of all the papers included in this literature review and mapping of the field.
-- `data/analysis_data`  contains the literature review matrix/evidence table, with each column detailing bibliographic data or a method
-  used in parchment damage assessment. Each row details a paper included in the literature review and mapping of the field.
-- `paper` contains the files used to generate the paper and/or images that go into the paper. The paper is [either a Word or Quarto doc].
+- Files beginning with `Analysis_` contains the scripts used to run each of the four research questions addressed with statistical methods in the paper.
+- Files beginning with `1_`, `2_`, `3`, and `4` contains the raw data used for each of the four analyses.
+- Other files in the repo are the outputs of the analysis.
 

@@ -1,0 +1,1 @@
+For analysis 2, I removed the technique column "Computed tomography/CT"from the raw data. It has 0 variance - i.e. none of the papers used this technique - so it would not work on correlation analysis - and since no paper used this technique i'm not sure why it weas included in the first place.

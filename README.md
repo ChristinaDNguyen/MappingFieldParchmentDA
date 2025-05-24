@@ -1,6 +1,6 @@
 # Mapping scientific parchment damage assessment: methodologies, tools, and conservation implications
-# Authors: Christina Nguyen, Stephanie Lahey, Alexandra Gillespie, Seamus Ross, and Laurent Bozec.
-# Maintainer of this repository: @ChristinaDNguyen 
+## Authors: Christina Nguyen, Stephanie Lahey, Alexandra Gillespie, Seamus Ross, and Laurent Bozec.
+## Maintainer of this repository: @ChristinaDNguyen 
 
 ## Overview
 This repo contains the files for the computational section of the paper, 'Mapping scientific parchment damage assessment: methodologies, tools, and conservation implications.'
